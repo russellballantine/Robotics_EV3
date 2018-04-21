@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # Core imports
 #
-#THis script performs the segmented line following task in the right to left direction(just in case it is needed).
+#THis script performs the segmented line following task in the right to left direction.
 #
 
 import time
