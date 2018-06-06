@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # Core imports
 #
-#Our main test script which we call the appropriate utility from.
+#Our test script which we call the appropriate utility from.
 ##This program forms the main testing stream for calling test functions from the utilities class.
 
 import time
